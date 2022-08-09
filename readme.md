@@ -5,3 +5,4 @@
 `duration`: (required) how much time it will take to complete the map  
 `map`: (required) a reference to the map model  
 `reset`: will be called to reset the map, after it has been completed  
+`music`: the Sound that will be played for the duration of the map  
